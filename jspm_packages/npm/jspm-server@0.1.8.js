@@ -1,0 +1,1 @@
+module.exports = require("npm:jspm-server@0.1.8/index");
